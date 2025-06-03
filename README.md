@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/haQPSP4EPR">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=461634842296320000&permissions=8&scope=bot%20applications.commands">
     <img src="https://img.shields.io/badge/Adicione--me%20ao%20seu%20Servidor-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Adicionar Samy Bot ao Discord">
   </a>
   <a href="https://discord.gg/haQPSP4EPR">
