@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Adicione--me%20ao%20seu%20Servidor-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Adicionar Samy Bot ao Discord">
   </a>
   <a href="https://discord.gg/haQPSP4EPR">
-    <img src="https://img.shields.io/discord/1377596166140592178?label=Servidor%20de%20Suporte&logo=discord&style=for-the-badge&color=7289DA" alt="Servidor de Suporte do Samy Bot">
+  <img src="https://img.shields.io/badge/Servidor%20de%20Suporte-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Servidor de Suporte do Samy Bot">
   </a>
   <img src="https://img.shields.io/github/license/carlosvcl/samy-bot?style=for-the-badge" alt="Licença">
   </p>
