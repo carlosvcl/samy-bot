@@ -1,7 +1,7 @@
 # Samy Bot - Seu Assistente Multifuncional para Discord 🤖✨
 
 <p align="center">
-  <img src="URL_DO_SEU_BANNER_AQUIsamy-logo.png" alt="Banner do Bot Samy" width="750"/>
+  <img src="URL_DO_SEU_BANNER_AQUI\samy-logo.png" alt="Banner do Bot Samy" width="750"/>
 </p>
 
 <p align="center">
