@@ -53,7 +53,7 @@ Samy é um projeto apaixonado de `[Carlos Gomes]`, desenvolvido para ser o compa
 
 Adicionar o Samy ao seu servidor é fácil e rápido:
 
-1.  **Clique aqui para convidar o Samy:** [![Adicionar Samy Bot ao Discord](https://img.shields.io/badge/Convidar%20Samy%20Bot-7289DA?style=flat-square&logo=discord&logoColor=white)]([https://discord.com/api/oauth2/authorize?client_id=461634842296320000&permissions=8&scope=bot%20applications.commands])
+1.  **Clique aqui para convidar o Samy:** [![Adicionar Samy Bot ao Discord](https://img.shields.io/badge/Convidar%20Samy%20Bot-7289DA?style=flat-square&logo=discord&logoColor=white)][https://discord.com/api/oauth2/authorize?client_id=461634842296320000&permissions=8&scope=bot%20applications.commands]
 2.  Selecione o servidor ao qual você deseja adicioná-lo.
 3.  Autorize as permissões necessárias para que o Samy funcione corretamente.
 4.  Pronto! Comece a explorar os comandos.
