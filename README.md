@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="[SEU_LINK_DE_CONVITE_AQUI]">
+  <a href="[https://discord.gg/haQPSP4EPR]">
     <img src="https://img.shields.io/badge/Adicione--me%20ao%20seu%20Servidor-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Adicionar Samy Bot ao Discord">
   </a>
   <a href="[LINK_DO_SEU_SERVIDOR_DE_SUPORTE_AQUI]">
-    <img src="https://img.shields.io/discord/[ID_DO_SEU_SERVIDOR_DE_SUPORTE_AQUI]?label=Servidor%20de%20Suporte&logo=discord&style=for-the-badge&color=7289DA" alt="Servidor de Suporte do Samy Bot">
+    <img src="https://img.shields.io/discord/[1377596166140592178]?label=Servidor%20de%20Suporte&logo=discord&style=for-the-badge&color=7289DA" alt="Servidor de Suporte do Samy Bot">
   </a>
   <img src="https://img.shields.io/github/license/carlosvcl/samy-bot?style=for-the-badge" alt="Licença">
   </p>
@@ -41,10 +41,6 @@ Samy é um projeto apaixonado de `[Carlos Gomes]`, desenvolvido para ser o compa
 * 🎉 **Entretenimento e Interação Comunitária:**
     * Minijogos interativos (`s!rps`, `s!coinflip`, *outros jogos*).
     * Comandos divertidos para gerar memes, piadas ou interações sociais.
-* 🎵 **Música de Alta Fidelidade:**
-    * Player de música com suporte a YouTube, Spotify e outras fontes.
-    * Comandos intuitivos (`s!play`, `s!skip`, `s!queue`, `s!lyrics`).
-    * Qualidade de áudio impecável para seus canais de voz.
 * 🧠 **Inteligência Artificial com Gemini:**
     * Respostas a perguntas complexas (`s!ask [pergunta]`).
     * Geração de texto criativo, ideias e muito mais.
@@ -57,7 +53,7 @@ Samy é um projeto apaixonado de `[Carlos Gomes]`, desenvolvido para ser o compa
 
 Adicionar o Samy ao seu servidor é fácil e rápido:
 
-1.  **Clique aqui para convidar o Samy:** [![Adicionar Samy Bot ao Discord](https://img.shields.io/badge/Convidar%20Samy%20Bot-7289DA?style=flat-square&logo=discord&logoColor=white)]([SEU_LINK_DE_CONVITE_AQUI])
+1.  **Clique aqui para convidar o Samy:** [![Adicionar Samy Bot ao Discord](https://img.shields.io/badge/Convidar%20Samy%20Bot-7289DA?style=flat-square&logo=discord&logoColor=white)]([https://discord.com/api/oauth2/authorize?client_id=461634842296320000&permissions=8&scope=bot%20applications.commands])
 2.  Selecione o servidor ao qual você deseja adicioná-lo.
 3.  Autorize as permissões necessárias para que o Samy funcione corretamente.
 4.  Pronto! Comece a explorar os comandos.
@@ -101,7 +97,6 @@ O Samy Bot é construído com as seguintes tecnologias principais:
 * **[Node.js](https://nodejs.org/)** (Ambiente de execução JavaScript)
 * **[Discord.js](https://discord.js.org/)** (Biblioteca principal para interação com a API do Discord)
 * **[Google Gemini API](https://ai.google.dev/)** (Para funcionalidades de Inteligência Artificial)
-* *[Outras bibliotecas ou bancos de dados que você usa, ex: MongoDB, Quick.db, etc.]*
 
 ---
 
@@ -109,7 +104,7 @@ O Samy Bot é construído com as seguintes tecnologias principais:
 
 Precisa de ajuda ou tem alguma dúvida? Entre em contato conosco:
 
-* **💬 Servidor de Suporte no Discord:** [Junte-se a Nós!]([LINK_DO_SEU_SERVIDOR_DE_SUPORTE_AQUI]) (Canal `#suporte` ou similar)
+* **💬 Servidor de Suporte no Discord:** [Junte-se a Nós!]([https://discord.gg/haQPSP4EPR]) (Canal `#suporte-geral` ou similar)
 * **📧 E-mail:** `samybot25@gmail.com`
 * **👤 Desenvolvedor Principal (Discord Tag):** `CarlosGomes#2263` (*Verifique se a tag está atualizada*)
 
@@ -117,7 +112,7 @@ Precisa de ajuda ou tem alguma dúvida? Entre em contato conosco:
 
 ## 📄 Licença
 
-O Samy Bot é distribuído sob a licença `[NOME_DA_SUA_LICENÇA, ex: MIT, Apache 2.0, GPLv3]`. Veja o arquivo `LICENSE` para mais detalhes.
+O Samy Bot é distribuído sob a licença `[MIT, Apache 2.0, GPLv3]`. Veja o arquivo `LICENSE` para mais detalhes.
 *(Se você ainda não tem um arquivo LICENSE, recomendo adicionar um. Sites como [Choose a License](https://choosealicense.com/) podem ajudar).*
 
 ---
