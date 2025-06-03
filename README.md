@@ -110,13 +110,6 @@ Precisa de ajuda ou tem alguma dúvida? Entre em contato conosco:
 
 ---
 
-## 📄 Licença
-
-O Samy Bot é distribuído sob a licença `[MIT, Apache 2.0, GPLv3]`. Veja o arquivo `LICENSE` para mais detalhes.
-*(Se você ainda não tem um arquivo LICENSE, recomendo adicionar um. Sites como [Choose a License](https://choosealicense.com/) podem ajudar).*
-
----
-
 <p align="center">
   **Obrigado por escolher e confiar no Samy Bot para sua comunidade! Esperamos que você aproveite!**
 </p>
