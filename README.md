@@ -1,7 +1,7 @@
 # Samy Bot - Seu Assistente Multifuncional para Discord 🤖✨
 
 <p align="center">
-  <img src="samy-logo.png" alt="Banner do Bot Samy" width="750"/>
+  <img src="samy-banner2.png" alt="Banner do Bot Samy" width="750"/>
 </p>
 
 <p align="center">
@@ -15,9 +15,6 @@
   <a href="https://discord.gg/haQPSP4EPR">
   <img src="https://img.shields.io/badge/Servidor%20de%20Suporte-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Servidor de Suporte do Samy Bot">
   </a>
-  <img src="https://img.shields.io/github/license/carlosvcl/samy-bot?style=for-the-badge" alt="Licença">
-  </p>
-
 ---
 
 ## 🌟 Sobre o Samy Bot
